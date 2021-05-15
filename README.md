@@ -10,7 +10,7 @@
 
 😁 Hello! This is DolDol's, GitHub Page
 
-💻 Likelion 9th Baby Lion at SCH 🦁
+🦁 Likelion 9th Baby Lion at SCH 🦁
 
 🤩 Programming I Have Learning C, HTML/CSS, etc...
 
@@ -19,8 +19,10 @@
 💰 I want to be rich all over the world.
 
 
-**Languages:**
+**Languages**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
