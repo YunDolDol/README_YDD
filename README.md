@@ -21,6 +21,6 @@
 👍 I currently studying C++ & Management !!
 
 
-##Languages :
+## Languages:
 
 <img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-FF8000?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/html-FFFF00?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-40FF00?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Github-0000FF?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-29088A?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-DF01D7?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-B40486?style=for-the-badge&logo=django&logoColor=white"> 
