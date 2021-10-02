@@ -18,7 +18,7 @@
 
 💰 I want to be rich all over the world.
 
-👍 I currently studing C++ & Management !!
+👍 I currently studying C++ & Management !!
 
 
 **Languages**
