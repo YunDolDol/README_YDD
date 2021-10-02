@@ -18,15 +18,9 @@
 
 💰 I want to be rich all over the world.
 
+👍 I currently studing C++ & Management !!
+
 
 **Languages**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-007396?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Cpp-007396?style=for-the-badge&logo=Cpp&logoColor=white"> <img src="https://img.shields.io/badge/html-007396?style=for-the-badge&logo=html&logoColor=white"> <img src="https://img.shields.io/badge/css-007396?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/Github-007396?style=for-the-badge&logo=github&logoColor=white">
